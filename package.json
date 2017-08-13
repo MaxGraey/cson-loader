@@ -6,7 +6,7 @@
   "main": "./lib/cson-loader",
   "repository": {
     "type": "git",
-    "url": "git@github.com:awnist/cson-loader.git"
+    "url": "git@github.com:MaxGraey/cson-loader.git"
   },
   "license": {
     "type": "Public Domain",
